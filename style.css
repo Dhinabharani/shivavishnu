@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #020617;
+  color: white;
+}
+
+/* HERO */
+.hero {
+  height: 100vh;
+  background: 
+    linear-gradient(to top, rgba(0,0,0,0.8), transparent),
+    url('https://source.unsplash.com/800x1200/?land,green') center/cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  letter-spacing: 1px;
+}
+
+.hero p {
+  opacity: 0.8;
+}
+
+.hero button {
+  margin-top: 15px;
+  padding: 12px 25px;
+  border-radius: 30px;
+  background: linear-gradient(45deg, gold, orange);
+  border: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.hero button:active {
+  transform: scale(0.95);
+}
+
+/* PROPERTIES */
+.properties {
+  padding: 20px;
+}
+
+.card {
+  backdrop-filter: blur(10px);
+  background: rgba(255,255,255,0.05);
+  border-radius: 20px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  transition: 0.4s;
+  transform: translateY(50px);
+  opacity: 0;
+}
+
+/* IMAGE ZOOM */
+.card img {
+  width: 100%;
+  transition: 0.4s;
+}
+
+.card:hover img {
+  transform: scale(1.1);
+}
+
+/* TEXT */
+.card h3 {
+  padding: 10px;
+}
+
+.card p {
+  padding: 0 10px 15px;
+  opacity: 0.7;
+}
+
+/* SERVICES */
+.services {
+  padding: 20px;
+  background: linear-gradient(180deg, #020617, #0f172a);
+}
+
+/* CONTACT */
+.contact {
+  text-align: center;
+  padding: 20px;
+}
+
+.contact button {
+  background: linear-gradient(45deg, #25D366, #1ebe5d);
+  padding: 12px 25px;
+  border-radius: 30px;
+  border: none;
+}
+
+/* BOTTOM NAV */
+.bottom-nav {
+  position: fixed;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90%;
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 30px;
+  display: flex;
+  justify-content: space-around;
+  padding: 12px;
+}
+
+/* REVEAL */
+.reveal.active {
+  transform: translateY(0);
+  opacity: 1;
+}
