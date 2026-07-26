@@ -1,54 +1,43 @@
 # 🏡 Shiva Vishnu Real Estate
 
-A modern and responsive **Real Estate Website** built using **HTML, CSS, and JavaScript**. This project is designed to showcase residential, commercial, agricultural, and farm land properties across different districts in Tamil Nadu.
+<p align="center">
+  <img src="https://github.com/Dhinabharani/shivavishnu/blob/main/images/screenshot.png" alt="Shiva Vishnu Real Estate Website" width="100%">
+</p>
 
-The website provides a clean and user-friendly interface where visitors can browse available properties, filter listings based on property type, explore featured locations, and contact the real estate team through Call or WhatsApp.
+A modern and responsive **Real Estate Website** built using **HTML, CSS, and JavaScript**. The website showcases residential, commercial, agricultural, and farm land properties across different districts in Tamil Nadu.
 
-This project was built to improve my frontend development skills by creating a complete business website with responsive layouts, animations, DOM manipulation, and interactive UI components.
+This project focuses on creating a clean and responsive user experience with property listings, filtering options, smooth animations, and an easy-to-navigate interface. Building this project helped me strengthen my frontend development skills by working with responsive layouts, DOM manipulation, and interactive UI components.
 
 ---
 
 ## 🚀 Live Demo
 
-🌐 **Website:**  
+🌐 **Website**  
 https://dhinabharani.github.io/shivavishnu/
 
-📂 **GitHub Repository:**  
+📂 **GitHub Repository**  
 https://github.com/Dhinabharani/shivavishnu
-
----
-
-## 📸 Preview
-
-> Add a screenshot of your homepage here.
-
-```
-images/screenshot.png
-```
 
 ---
 
 ## ✨ Features
 
-- Responsive design for Mobile, Tablet, and Desktop
-- Modern Landing Page
-- Property Listings
-- Property Type Filtering
-- Search by District
-- Featured Property Section
-- About Us Page
-- Contact Page
-- Call & WhatsApp Integration
-- Smooth Scrolling
-- Scroll Reveal Animations
-- Interactive Property Cards
-- Mobile Navigation Menu
-- Loading Animation
-- Clean and Modern UI
+- 📱 Fully Responsive Design
+- 🏡 Property Listings
+- 🔍 Search by District
+- 🗂️ Property Type Filtering
+- 📍 Featured Locations
+- 📞 Contact Page
+- 📲 Call & WhatsApp Integration
+- 🎨 Modern UI Design
+- ⚡ Smooth Animations
+- 📱 Mobile Navigation Menu
+- ⏳ Loading Animation
+- 🖼️ Interactive Property Cards
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
@@ -58,73 +47,52 @@ images/screenshot.png
 
 ## 📂 Project Structure
 
-```
+```text
 shivavishnu/
 │
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
 ├── images/
-├── assets/
+├── css/
+├── js/
 └── README.md
 ```
 
 ---
 
-## 🎯 Project Highlights
+## 📸 Website Preview
 
-- Fully Responsive Layout
-- Interactive User Interface
-- Smooth Animations
-- Clean Code Structure
-- Business Website Design
-- Easy Navigation
-- Modern Color Palette
-- Beginner Friendly Code
-
----
-
-## 📱 Responsive Design
-
-The website is optimized for:
-
-- 📱 Mobile
-- 💻 Laptop
-- 🖥 Desktop
-- 📟 Tablet
+| Home Page |
+|------------|
+| ![Website Preview](https://github.com/Dhinabharani/shivavishnu/blob/main/images/screenshot.png) |
 
 ---
 
 ## 📚 What I Learned
 
-While building this project, I practiced and improved my understanding of:
+During this project, I improved my understanding of:
 
 - Responsive Web Design
-- CSS Flexbox
-- CSS Grid
-- DOM Manipulation
-- JavaScript Event Handling
-- Filtering Data
-- Responsive Navigation
-- UI Design Principles
-- Website Performance Optimization
+- HTML Semantic Elements
+- CSS Flexbox & Grid
+- JavaScript DOM Manipulation
+- Event Handling
+- Property Filtering Logic
+- Mobile Navigation
+- Scroll Animations
+- UI/UX Design Principles
 
 ---
 
 ## 🔮 Future Improvements
 
 - Backend Integration
-- Property Database
-- Login & Registration
-- Admin Dashboard
+- Property Management Dashboard
+- User Authentication
 - Property Search API
 - Google Maps Integration
 - Image Gallery
-- Property Booking
 - Wishlist Feature
-- Dark Mode
+- Online Property Booking
 
 ---
 
@@ -132,16 +100,17 @@ While building this project, I practiced and improved my understanding of:
 
 **Dhina Bharani**
 
-GitHub:
-https://github.com/Dhinabharani
+GitHub: https://github.com/Dhinabharani
+
+LinkedIn: *(Add your LinkedIn profile here if you'd like.)*
 
 ---
 
 ## ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub.
+If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
 
-It motivates me to build more projects and improve my skills.
+Thank you for visiting my repository!
 
 ---
 
